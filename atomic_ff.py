@@ -1,1 +1,3 @@
-# Class for computing the atomic ionization form factor
+"""
+Class for computing the atomic ionization form factor
+"""

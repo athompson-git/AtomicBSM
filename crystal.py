@@ -1,4 +1,6 @@
-# Class for setting and getting crystal parameters, lattice vectors, and structure functions
+"""
+Class for setting and getting crystal parameters, lattice vectors, and structure functions
+"""
 
 from .constants import *
 from .math_helper import *

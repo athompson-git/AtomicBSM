@@ -1,6 +1,8 @@
-# Physical constants
-# Default values are in s, cm, MeV
-# Alternate values provided for common constants
+"""
+Physical constants
+Default values are in s, cm, MeV
+Alternate values provided for common constants
+"""
 
 # Set the base units
 MeV = 1.0
@@ -53,6 +55,7 @@ V_UD = 0.9737  # ckm ud
 V_US = 0.2245  # ckm us
 F_PI = 130.2 * MeV  # pion decay constant
 F_K = 155.7 * MeV  # kaon decay constant
+A0 = 0.53  # Bohr radius in angstroms
 
 # Lifetimes
 KAON_LIFETIME = 1.238e-8 * sec

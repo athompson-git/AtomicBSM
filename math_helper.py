@@ -1,4 +1,6 @@
-# Useful math and helper functions
+"""
+Useful math and helper functions
+"""
 
 import numpy as np
 from numpy import log, log10, exp, pi, sqrt, power, \
